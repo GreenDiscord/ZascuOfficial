@@ -17,5 +17,5 @@ The main reason I program and create websites is to solve problems and make beau
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZascuOfficial&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZascuOfficial&theme=vue-dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api?username=ZascuOfficial&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=ZascuOfficial&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZascuOfficial&theme=vue-dark&hide_border=false)
